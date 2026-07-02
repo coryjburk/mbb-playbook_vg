@@ -1,8 +1,16 @@
-# Eccles MBA — Consulting Interview Playbook
+# Full-Time MBA Program · David Eccles School of Business — Consulting Interview Playbook
 
 A single-file, self-contained MBB consulting interview playbook with a data-driven engine,
 practice tools (voice input, filler-word tracking, AI coaching-prompt generator), a readiness
 dashboard, and a live insight-source library.
+
+---
+
+## Live Link
+
+‘https://coryjburk.github.io/intv-playbook-prod-mgr/’
+
+---
 
 ### Executive Operations & Navigation Manual
 

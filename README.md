@@ -8,7 +8,7 @@ dashboard, and a live insight-source library.
 
 ## Live Link
 
-[https://coryjburk.github.io/mbb-playbook_vg/]
+[Intv Playbook - MBB Consulting (vG)]( https://coryjburk.github.io/mbb-playbook_vg/ )
 
 ---
 

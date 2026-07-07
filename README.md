@@ -64,13 +64,6 @@ The platform runs on an interactive, closed-loop loop that links your verbal int
 | `scripts/build_feeds.py` | Fetches the RSS feeds and writes `feeds.json`. |
 | `.github/workflows/update-feeds.yml` | Runs the script every 6 hours and commits `feeds.json`. |
 
-## Deploy on GitHub Pages
-
-1. Put all four files in a repo (keep the folder structure: `scripts/` and `.github/workflows/`).
-2. **Settings → Pages →** deploy from your default branch, root folder.
-3. Your link will be `https://coryjburk.github.io/<repo-name>/Eccles_MBB_Consulting_Interview_Playbook.html`
-   (or rename the HTML to `index.html` to drop the filename from the URL).
-
 ## Turn on the live source feed
 
 1. **Settings → Actions → General →** Workflow permissions → enable **Read and write permissions**

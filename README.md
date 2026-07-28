@@ -6,9 +6,7 @@ dashboard, and a live insight-source library.
 
 ---
 
-## Live Link
-
-**[Intv Playbook - MBB Consulting (vG)]( https://coryjburk.github.io/mbb-playbook_vg/ )**
+## **▶ Live tool:** **[Intv Playbook - MBB Consulting (vG)]( https://coryjburk.github.io/mbb-playbook_vg/ )**
 
 ---
 
@@ -86,3 +84,10 @@ All content lives in the JS data arrays near the top of the `<script>` block
 (`CONSULTING_QUESTIONS`, `CONSULTING_CASES`, `CONSULTING_FRAMEWORKS`, `CONSULTING_MATH`,
 `CONSULTING_FIT`, `CONSULTING_BATTLECARD`, `CONSULTING_REDFLAGS`). Each build batch just extends
 these arrays — the rendering, filters, and practice tools never change.
+
+---
+
+## Privacy
+
+Developed by Cory Burk, Senior Manager, Program Management · Full-Time MBA Program · David Eccles School of Business.
+© 2026 University of Utah, David Eccles School of Business. All rights reserved.
